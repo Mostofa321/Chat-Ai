@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "c5a9fa90-7380-4c68-b4ea-bb0922effe36",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3000/chat",
+    "url": "http://localhost:3000/chat",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-01-30T03:11:18.235Z",
+    "modified": "2023-01-30T03:11:18.235Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"question\": \"what is react\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "e7b1f5b1-ada3-491d-8299-fcaa86d21e9c",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:5000/chat",
+    "url": "http://localhost:5000/chat",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-01-30T03:18:02.779Z",
+    "modified": "2023-01-30T04:40:49.634Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"userRequest\": \"about node js\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
